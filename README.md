@@ -2,6 +2,8 @@
 
 A production-ready face recognition system with real-time detection, liveness verification, and comprehensive attendance tracking.
 
+📺 **Demo Video:** https://youtu.be/o83-ms6bh6A
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Production--Ready-success)
@@ -441,3 +443,4 @@ This system is designed for educational and small-scale commercial use. For high
 **Last Updated**: February 2026  
 **Author**: AI/ML Engineer  
 **Status**: ✅ Production Ready
+
